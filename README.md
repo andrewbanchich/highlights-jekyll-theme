@@ -1,4 +1,4 @@
-# "Highlights" Jekyll Theme
+# Highlights - Jekyll Theme
 
 A Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
 
