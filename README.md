@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Highlights" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/highlights.jpg "Highlights Theme")
+![Highlights Theme](images/highlights.jpg "Highlights Theme")
 
 # How to Use
 
