@@ -3,22 +3,6 @@ layout: default
 title:
 ---
 
-
-	<body>
-
-		<!-- Header -->
-			<section id="header">
-				<header class="major">
-					<h1>Highlights</h1>
-					<p>A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a></p>
-				</header>
-				<div class="container">
-					<ul class="actions">
-						<li><a href="#one" class="button special scrolly">Begin</a></li>
-					</ul>
-				</div>
-			</section>
-
 		<!-- One -->
 			<section id="one" class="main special">
 				<div class="container">
