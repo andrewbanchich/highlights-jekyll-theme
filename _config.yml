@@ -12,11 +12,6 @@ description: The Jekyll version of the Highlights theme by HTML5 UP.
 baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
-# Plugins
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
 # Identity
 your-name: Jane Doe
 your-title: Senior Psychonautics Engineer
@@ -35,14 +30,3 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
-
-# Plugin: jekyll-seo-tag
-twitter:
-  username: andrewbanchich
-# Add one or more of the following
-facebook:
-  app_id: 
-  publisher: 
-  admins: 
-logo:
-google_site_verification: 
