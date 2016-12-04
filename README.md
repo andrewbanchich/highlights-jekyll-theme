@@ -17,8 +17,23 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 * **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
 * Add your **social profiles** easily in `_config.yml`.
-* **Automatic sitemap generation** via the [Jekyll Sitemap Generator](https://github.com/jekyll/jekyll-sitemap) plugin.
-* **Automatic SEO** via the [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) plugin.
+
+# Configuration
+
+You can use the following custom parameters in `_config.yml`.
+
+## Social settings
+
+- `500px_url`
+- `facebook_url`
+- `github_url`
+- `gitlab_url`
+- `googleplus_url`
+- `instagram_url`
+- `linkedin_url`
+- `pinterest_url`
+- `slack_url`
+- `twitter_url`
 
 # Credits
 

@@ -7,7 +7,7 @@ description: A fun little { responsive } single pager by <a href="http://html5up
 <!-- One -->
 <section id="one" class="main special">
 	<div class="container">
-		<span class="image fit primary"><img src="images/pic01.jpg" alt="" /></span>
+		<span class="image fit primary"><img src="assets/images/pic01.jpg" alt="" /></span>
 		<div class="content">
 			<header class="major">
 				<h2>Who I am</h2>
@@ -21,7 +21,7 @@ description: A fun little { responsive } single pager by <a href="http://html5up
 <!-- Two -->
 <section id="two" class="main special">
 	<div class="container">
-		<span class="image fit primary"><img src="images/pic02.jpg" alt="" /></span>
+		<span class="image fit primary"><img src="assets/images/pic02.jpg" alt="" /></span>
 		<div class="content">
 			<header class="major">
 				<h2>Stuff I do</h2>
@@ -53,7 +53,7 @@ description: A fun little { responsive } single pager by <a href="http://html5up
 <!-- Three -->
 <section id="three" class="main special">
 	<div class="container">
-		<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
+		<span class="image fit primary"><img src="assets/images/pic03.jpg" alt="" /></span>
 		<div class="content">
 			<header class="major">
 				<h2>One more thing</h2>
