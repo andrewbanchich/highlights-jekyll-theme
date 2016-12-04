@@ -170,7 +170,7 @@
 
 						$this
 							.css('background-image', 'url("' + $primaryImg.attr('src') + '")')
-							.css('-ms-behavior', 'url("css/ie/backgroundsize.min.htc")');
+							.css('-ms-behavior', 'url("assets/css/ie/backgroundsize.min.htc")');
 
 						return;
 
@@ -179,7 +179,7 @@
 				// Create bg and append it to body.
 					$bg = $('<div class="main-bg" id="' + $this.attr('id') + '-bg"></div>')
 						.css('background-image', (
-							'url("css/images/overlay.png"), url("' + $primaryImg.attr('src') + '")'
+							'url("assets/css/images/overlay.png"), url("' + $primaryImg.attr('src') + '")'
 						))
 						.appendTo($body);
 
