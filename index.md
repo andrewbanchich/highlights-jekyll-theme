@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: We're getting married
+description: Come join Kimberly and Alex celebrate the next chapter with their community!
 ---
