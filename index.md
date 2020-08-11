@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun little { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: Sandie Keerstock
+description: I use GitHub/this page to host some of my research output. For a full list of publications and activities, see my CV.
 ---
